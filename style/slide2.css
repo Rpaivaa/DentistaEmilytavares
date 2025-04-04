@@ -242,45 +242,45 @@
     max-height: 100px;
 }
 /* queries para diminuir imagem - imagem 1 */
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem1 {
         content: url('style/query/media1.jpg');
     }
 }
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem1 {
         content: url('style/query/minum1.jpg')
     }
 }
 /* queries para diminuir imagem - imagem 2 */
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem2 {
         content: url('style/query/media2.jpg');
     }
 }
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem2 {
         content: url('style/query/minum2.jpg')
     }
 }
 /* queries para diminuir imagem - imagem 3 */
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem3 {
         content: url('style/query/media3.jpg');
     }
 }
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem3 {
         content: url('style/query/minum3.jpg')
     }
 }
 /* queries para diminuir imagem - imagem 4 */
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem4 {
         content: url('style/query/media4.jpg');
     }
 }
-@media (min-width: 450px) and (max-width: 550px) {
+@media (min-width: 300px) and (max-width: 550px) {
     #imagem4 {
         content: url('style/query/minum4.jpg')
     }
